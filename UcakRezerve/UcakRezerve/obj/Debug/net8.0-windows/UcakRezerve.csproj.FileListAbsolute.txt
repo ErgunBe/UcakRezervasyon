@@ -1,0 +1,17 @@
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\bin\Debug\net8.0-windows\UcakRezerve.exe
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\bin\Debug\net8.0-windows\UcakRezerve.deps.json
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\bin\Debug\net8.0-windows\UcakRezerve.runtimeconfig.json
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\bin\Debug\net8.0-windows\UcakRezerve.dll
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\bin\Debug\net8.0-windows\UcakRezerve.pdb
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.Form1.resources
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.Properties.Resources.resources
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.csproj.GenerateResource.cache
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.AssemblyInfoInputs.cache
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.AssemblyInfo.cs
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.dll
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\refint\UcakRezerve.dll
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.pdb
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\UcakRezerve.genruntimeconfig.cache
+C:\Users\VULKAN\Desktop\udemy\UcakRezerve\UcakRezerve\obj\Debug\net8.0-windows\ref\UcakRezerve.dll
